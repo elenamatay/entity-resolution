@@ -1,5 +1,7 @@
 # entity-resolution
 
+![Proposed Architecture](entity-resolution-architecture.jpeg)
+
 The code samples shared include two Jupyter Notebooks:
 
 1. `Vector Search basic implementation.ipynb` - Shows how to use the VertexAI SDKs to create and query a Vector Store:
